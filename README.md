@@ -1,4 +1,4 @@
-# Reddit Client App - [RedBoy](https://RedBoy-shafihi.netlify.app/)
+# Reddit Client App - [RedBoy](https://github.com/shafihi/RedBoy)
 
 Welcome to my Reddit Client App, RedBoy! This web application allows users to explore Reddit posts and comments, built with React and Redux.
 
