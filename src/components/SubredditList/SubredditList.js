@@ -26,7 +26,7 @@ export function SubredditList() {
 
     useEffect(() => {
      dispatch(fetchSubreddits())
-    }, [])
+    }, [dispatch])
 
     if(state.subreddits.isLoading) {
         return (
