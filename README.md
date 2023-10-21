@@ -1,4 +1,4 @@
-# Reddit Client App - RedBoy
+# Reddit Client App - [RedBoy](https://RedBoy-shafihi.netlify.app/)
 
 Welcome to my Reddit Client App, RedBoy! This web application allows users to explore Reddit posts and comments, built with React and Redux.
 
@@ -76,5 +76,7 @@ Contributions to this project are welcome. If you'd like to contribute, please f
 This project is licensed under the [MIT License](LICENSE.md).
 
 Thank you for using the Reddit Client App. If you have any questions or need assistance, feel free to contact [Kasimu Ozeto](mailto:shafihikasim@yahoo.com). Enjoy exploring Reddit with the app! 🚀
+
 ```
 
+```
