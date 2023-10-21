@@ -1,6 +1,6 @@
-# Reddit Client App
+# Reddit Client App - RedBoy
 
-Welcome to the Reddit Client App! This web application allows users to explore Reddit posts and comments, built with React and Redux.
+Welcome to my Reddit Client App, RedBoy! This web application allows users to explore Reddit posts and comments, built with React and Redux.
 
 ![App Screenshot](screenshot.png)
 
@@ -27,7 +27,7 @@ Follow these steps to get the Reddit Client App up and running on your local mac
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shafihi/RedBoy
    ```
 
 2. Install project dependencies:
